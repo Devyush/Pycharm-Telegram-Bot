@@ -62,7 +62,7 @@ def main():
                 if first_chat_text == 'Monday':
                     UtopianSpectraBot.send_message(first_chat_id,
                                                   '''
-                                                  1. Mathematics (7.00 am - 9.00 am)\n2. Basic of Pysic (9.00 am - 12.00 am)
+                                                  1. Mathematics (7.00 am - 9.00 am)\n2. Basic of Physic (9.00 am - 12.00 am)
                                                   ''')
                     new_offset = first_update_id + 1
                 if first_chat_text == 'Tuesday':
